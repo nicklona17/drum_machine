@@ -1,6 +1,6 @@
 # This project was created using React.js
 
-You can find this calculator project live at:
+You can find this drum machine project live at:
 
 https://nicklona17.github.io/drum_machine/
 
